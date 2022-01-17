@@ -8,6 +8,8 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')
     print('ok')
+    print('Again')
+    print('UFO came and added this line')
     # Press ⌘F8 to toggle the breakpoint.
 
 
